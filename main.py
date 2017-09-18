@@ -1,5 +1,5 @@
-from_gopigo import *
-import_time
+from gopigo import *
+import time
 
 
 class Piggy(object):
