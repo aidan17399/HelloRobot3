@@ -1,4 +1,4 @@
-import_gopigo
+from_gopigo import *
 import_time
 
 
