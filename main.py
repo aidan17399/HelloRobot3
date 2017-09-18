@@ -13,7 +13,7 @@ class Piggy(object):
              time.sleep(.5)
              left_rot()
              time.sleep(.5)
-             motor_fwd():
+             motor_fwd(40):
              stop()
 
 
